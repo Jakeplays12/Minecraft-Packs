@@ -5,7 +5,7 @@ All my minecraft packs, in one place!
 
 # Packs
 
-> Pride Sniffer: [Modrinth](https://modrinth.com/resourcepack/pridesniffer)
+> Pride Sniffer: [Modrinth](https://modrinth.com/resourcepack/pridesniffer), [Github](https://github.com/Jakeplays12/Minecraft-Packs/tree/Pride-Sniffer)
 
 ### Pride Minecraft Logos
 
